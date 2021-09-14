@@ -1,5 +1,5 @@
 var listaPecas=[]
-var nomePeca='Peça Teste'
+var nomePeca='Pe'
 var pesoPeca=300
 var podeCadastrar=true
 
